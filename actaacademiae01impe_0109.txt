@@ -1,0 +1,49 @@
+»501ss ) 19 ( 52³3<-
+
+hoc igitur valore substituto praecedentes determinationes ad
+sequentes valores reducentur:
+
+Pro Pentagono sphaerico
+A O z 0‚6523556.r
+A P z 0‚3648612.r
+O P z 0‚'535749·r
+
+tota area Ξ «ῐ,04-71975.νν tota area z 0‚9591895.rr
+Vnde apparet per expansionem chartae restam oa incre·
+mentum capere debere :z 0,o327459.r‚ qnod est fere vice-
+fima pars totius longitudinis·⁷ ut vero resta o π capere debet
+incrementum 0,0359925. r, quod valet circiter partem deci-
+mam quartam; denique totius superficiei incrementum
+erit :z 0‚0880080, quae est pars fere vndecima: tantam
+autem expansionem chartam recipere poss‘e experientia
+satis declarat, hinc itaque sequens problema commode
+resoluere poterimus.
+
+Problema‚
+
+Superficiem dati globi per duodecim pentagona
+plana quani fieri potest exactiffime obducere.
+
+Pro Pentagono plano,
+ο 0:0,6196097.r
+α π :1 0‚3648612.r
+o 7r10‚5175824.r
+
+ 
+
+ 
+
+Solutio.
+
+Sit radius globi dati :r‚ et in plano describatur
+circulus radio z z: 0‚6196097.r, cui inscribatur pentagonum
+regulare, super cuius singulis lateribus adiungantur seg·
+menta circularia α vrb radio
+
+z v z 5,6232078.z z 3,484114.r
+tum huiusmodi duodecim pentagona accurate ex charta ex-
+scindantur, iisque ternis ad angulos coniungendis superfi-⁴
+cies globi satis perfecte obtegi poterit.
+
+'G 2 le
+

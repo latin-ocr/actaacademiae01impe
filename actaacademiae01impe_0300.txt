@@ -1,0 +1,37 @@
+-20-13 μω( aea·-
+
+aequatio: ΔΗΖ-Κάρ, qnae aequatio est pro catenaria
+inuersa, vti ex sequentibus clarius patebit. Nota enim est
+proprietas huius curuae, a celeberrimo Ioanne Bernoulli in-
+uenta, quod fit dx ad dy vt pondus catenae ad poten-
+tiam gravantem. Spestata igitur vi fulcrum vrgente Κ
+vt effectum ponderis catenae, in sensum contrarium agen-
+tem, summa pondusculorum grauantium existente :IL erit
+
+dxzdy:—K:II‚
+
+ex quo nascitur aequatio Π ῑ-Κὲῑ -Κρ, vnde fit dif-
+ferentiando dn: — K dp, quae est ea ipsa aequatio, quam
+
+nostra tolutio suppeditauit.
+
+Statim igitur ac lex, qua grauationes in fingula ele-
+menta agunt, fuerit cognita, species curuae, fiue curuatura
+AY accuratius definietur. Tres autem pro lege grauatio-
+nis casus principales locum habere poffunt: 1⁰.) Si vires
+grauantes elemento absciss'ae fuerint proportionales, quo
+igitur casu poni conueniet α’Π--λᾶ x. 2⁰.) Si, pondera
+fuerint in ratione elementorum arcuS, hoc est u'II:7lds.
+3⁰.) Si fuerit dsszzy dx, ita vt onera fint in ratione
+spatiorum3 quibus insuper quartus casus adiungi potest, quo
+compages a fluido superincumbente premitur, cuius altitu-
+do super horizontali AM fi ponatur :h, elementum *Yy
+sustinebit pondus columnae, cuius altitudo :h-y ‘et bafis
+:dx3 tum igitur ponendum erit dH:(h—-y)dx. Hos
+ergo fing'ulos casus hoc loco succeffiue percurramus.
+
+Euolu‘tio casus primi.
+§- 1 8. Cum ‘igitur hoc casu fit dn:zdx:--de‚
+erit integrando λ x z const. -Κ, p z C —-K p , vnde —fit
+p Ξ
+
